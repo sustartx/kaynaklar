@@ -7,3 +7,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Başlık | Okuma veya İzleme Sayım | Link | Açıklama |
 | :--- | :---: | :--- | :--- |
 | awesome   | -     | https://github.com/sindresorhus/awesome    | Programlama dilleri, frontend ve backend, kitaplar ve diğer birkaç başlık altında kaynaklar içeriyor. |
+| awesome-microservices   | -     | https://github.com/mfornos/awesome-microservices    | Microservices başlığı altında bilgiler ve örnek projeler içeriyor. |
