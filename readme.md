@@ -3,3 +3,7 @@ Bu repo içerisinde çalışırken ve boş vakitlerinde takip ettiğim kaynaklar
 Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin gözümün önümde olmasıdır. Ayrıca benzer konulara ilgi duyan kişilere de kaynak olması için public repo olarak paylaşmamın faydalı olacağını düşündüm.
 
     Not: Giriş yazısı da dahil olmak üzere dokümanın kalıbı ve kategori yapısını değiştireceğim. 
+
+| Başlık | Okuma veya İzleme Sayım | Link | Açıklama |
+| :--- | :---: | :--- | :--- |
+| awesome   | -     | https://github.com/sindresorhus/awesome    | Programlama dilleri, frontend ve backend, kitaplar ve diğer birkaç başlık altında kaynaklar içeriyor. |
