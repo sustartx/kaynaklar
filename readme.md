@@ -11,3 +11,7 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Docker Bölüm 1: Nedir, Nasıl Çalışır, Nerede Kullanılır? | 2 | https://gokhansengun.com/docker-nedir-nasil-calisir-nerede-kullanilir/ |  |
 | Docker Bölüm 2: Yeni bir Docker Image'ı Nasıl Hazırlanır? | 1 | https://gokhansengun.com/docker-yeni-image-hazirlama/ |  |
 | Docker Bölüm 3: Docker Compose Hangi Amaçlarla ve Nasıl Kullanılır? | 1 | https://gokhansengun.com/docker-compose-nasil-kullanilir/ |  |
+| Docker İpuçları - Soru / Cevap - Bölüm 1 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/ |  |
+| Docker İpuçları - Soru / Cevap - Bölüm 2 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-2/ |  |
+| Docker İpuçları - Soru / Cevap - Bölüm 3 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-3/ |  |
+| Docker İpuçları - Soru / Cevap - Bölüm 4 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-4/ |  |
