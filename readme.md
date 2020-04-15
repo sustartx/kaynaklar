@@ -15,3 +15,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Docker İpuçları - Soru / Cevap - Bölüm 2 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-2/ |  |
 | Docker İpuçları - Soru / Cevap - Bölüm 3 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-3/ |  |
 | Docker İpuçları - Soru / Cevap - Bölüm 4 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-4/ |  |
+| Temiz Kod Tasarımı - Lemi Orhan Ergin | 3 | https://www.youtube.com/watch?v=7m88T8-96X4 |  |
