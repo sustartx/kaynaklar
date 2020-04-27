@@ -16,3 +16,5 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Docker İpuçları - Soru / Cevap - Bölüm 3 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-3/ |  |
 | Docker İpuçları - Soru / Cevap - Bölüm 4 | 1 | https://gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-4/ |  |
 | Temiz Kod Tasarımı - Lemi Orhan Ergin | 3 | https://www.youtube.com/watch?v=7m88T8-96X4 |  |
+| Linux ile İlgili Bilmemiz Gerekenler 1. Bolum / 12 Ocak 2017 | 2 | https://www.youtube.com/watch?v=qV_k7nPtelE | Temel Linux bilgisi ile beraber orta seviye bilgiler içeriyor. |
+| Linux Hakkında Bilmemiz Gerekenler Bolum 2 // 26 Ocak 2017 // Gokhan Sengun | 2 | https://www.youtube.com/watch?v=eL1EeCBwEwM | Orta seviye Linux bilgileri içeriyor. |
