@@ -19,3 +19,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Linux ile İlgili Bilmemiz Gerekenler 1. Bolum / 12 Ocak 2017 | 2 | https://www.youtube.com/watch?v=qV_k7nPtelE | Temel Linux bilgisi ile beraber orta seviye bilgiler içeriyor. |
 | Linux Hakkında Bilmemiz Gerekenler Bolum 2 // 26 Ocak 2017 // Gokhan Sengun | 2 | https://www.youtube.com/watch?v=eL1EeCBwEwM | Orta seviye Linux bilgileri içeriyor. |
 | Hanging out with Docker - Güray Yıldırım | 1 | https://www.youtube.com/watch?v=pGe0nPsi4Uw |  |
+| Fatih Kadir Akın - "Yükleniyor..." Karmaşık bekleme deneyimleri nasıl yönetilir? / #ftkistanbul18 | 1 | https://www.youtube.com/watch?v=br28XLLLayU |  |
