@@ -20,3 +20,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Linux Hakkında Bilmemiz Gerekenler Bolum 2 // 26 Ocak 2017 // Gokhan Sengun | 2 | https://www.youtube.com/watch?v=eL1EeCBwEwM | Orta seviye Linux bilgileri içeriyor. |
 | Hanging out with Docker - Güray Yıldırım | 1 | https://www.youtube.com/watch?v=pGe0nPsi4Uw |  |
 | Fatih Kadir Akın - "Yükleniyor..." Karmaşık bekleme deneyimleri nasıl yönetilir? / #ftkistanbul18 | 1 | https://www.youtube.com/watch?v=br28XLLLayU |  |
+| Rıza Selçuk Saydam - Ürün Yönetiminde Başarıya Ulaşmanın Üç Noktası: Anla, Sapta, Gerçekleştir! | 1 | https://www.youtube.com/watch?v=ZfBCIbSQRdo |  |
