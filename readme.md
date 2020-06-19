@@ -24,3 +24,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | SİBERKAFE Online / Siber Güvenlik Sohbetleri - 9 - Global Siber Güvenlik Trendleri | 1 | https://www.youtube.com/watch?v=VQoVPNdTXHU |  |
 | Türkiye Siber Güvenlik Kümelenmesi - KVKK Farkındalık Eğitimi | 1 | https://www.youtube.com/watch?v=i_JzBPIBLeM |  |
 | Google Analytics’i etkin kullanarak satışlarınızı nasıl arttırabilirsiniz? & Şahin Seçil | 1 | https://www.youtube.com/watch?v=0_A2MV2aaTo |  |
+| Türkiye'de Kaliteli Yazılım Geliştirme | 2+ | https://www.youtube.com/watch?v=Y1MP1NDQQN8 |  |
