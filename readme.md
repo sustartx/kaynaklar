@@ -25,3 +25,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Türkiye Siber Güvenlik Kümelenmesi - KVKK Farkındalık Eğitimi | 1 | https://www.youtube.com/watch?v=i_JzBPIBLeM |  |
 | Google Analytics’i etkin kullanarak satışlarınızı nasıl arttırabilirsiniz? & Şahin Seçil | 1 | https://www.youtube.com/watch?v=0_A2MV2aaTo |  |
 | Türkiye'de Kaliteli Yazılım Geliştirme | 2+ | https://www.youtube.com/watch?v=Y1MP1NDQQN8 |  |
+| Web Uygulamaları Geliştirirken Agile Süreç Yönetimi | 3+ | https://www.youtube.com/watch?v=Gxz1kgL5GZ8 |  |
