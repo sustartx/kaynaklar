@@ -27,3 +27,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Türkiye'de Kaliteli Yazılım Geliştirme | 2+ | https://www.youtube.com/watch?v=Y1MP1NDQQN8 |  |
 | Web Uygulamaları Geliştirirken Agile Süreç Yönetimi | 3+ | https://www.youtube.com/watch?v=Gxz1kgL5GZ8 |  |
 | Salih Emre - Serverless Mindset | 1 | https://www.youtube.com/watch?v=9V1A_8gERes |  |
+| Azmi Mengü - Serverless data analytics using AWS Glue, Athena & QuickSight | 1 | https://www.youtube.com/watch?v=zH4j-monY3o | Gerçek bir örnek ile konuyu anlatmaya çalışsa da konuyla ilgisi olmayanlar veya yeni başlayanlar için biraz karışık olabilir. |
