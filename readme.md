@@ -28,3 +28,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Web Uygulamaları Geliştirirken Agile Süreç Yönetimi | 3+ | https://www.youtube.com/watch?v=Gxz1kgL5GZ8 |  |
 | Salih Emre - Serverless Mindset | 1 | https://www.youtube.com/watch?v=9V1A_8gERes |  |
 | Azmi Mengü - Serverless data analytics using AWS Glue, Athena & QuickSight | 1 | https://www.youtube.com/watch?v=zH4j-monY3o | Gerçek bir örnek ile konuyu anlatmaya çalışsa da konuyla ilgisi olmayanlar veya yeni başlayanlar için biraz karışık olabilir. |
+| Burak Can - Javascript ile native mobil uygulama geliştirmek | 2 | https://www.youtube.com/watch?v=X5aMyCvw8aQ |  |
