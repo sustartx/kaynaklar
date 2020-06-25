@@ -30,3 +30,4 @@ Yazmamın birincil amacı sık kullanılanlar listemde kaybolup giden linklerin 
 | Azmi Mengü - Serverless data analytics using AWS Glue, Athena & QuickSight | 1 | https://www.youtube.com/watch?v=zH4j-monY3o | Gerçek bir örnek ile konuyu anlatmaya çalışsa da konuyla ilgisi olmayanlar veya yeni başlayanlar için biraz karışık olabilir. |
 | Burak Can - Javascript ile native mobil uygulama geliştirmek | 2 | https://www.youtube.com/watch?v=X5aMyCvw8aQ |  |
 | SİBERKAFE Online Siber Güvenlik Sohbetleri 1/1 - Covid-19 Sürecinde Siber Güvenlik | 1 | https://www.youtube.com/watch?v=CrEbvhzRqVQ |  |
+| SİBERKAFE Online Siber Güvenlik Sohbetleri 2 - Siber Güvenlikte Girişimcilik ve Yatırım Süreçleri | 1 | https://www.youtube.com/watch?v=0ZWuwNTffh0 | Siber güvenlik ve iş kurma hakkında değerli bilgiler içeriyor. |
